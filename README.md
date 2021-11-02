@@ -19,5 +19,7 @@ Here are some ideas to get you started:
   
   # IMyself
   
+  ![](https://komarev.com/ghpvc/?username=Shadownc&color=blue)
+  
   ![Shadownc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadownc&show_icons=true&theme=radical)
 </div>
