@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   
   ![](https://komarev.com/ghpvc/?username=Shadownc&color=blue)
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=blogTS)](https://github.com/Shadownc/blogTS)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadownc&layout=compact)](https://github.com/Shadownc/blogTS)
-  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=blogTS)](https://github.com/Shadownc/blogTS)-->
 </div>
