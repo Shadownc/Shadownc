@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   
   ![](https://komarev.com/ghpvc/?username=Shadownc&color=blue)
   
-  ![Shadownc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadownc&show_icons=true&theme=radical)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=github-readme-stats)](https://github.com/Shadownc/blogTS)
 </div>
