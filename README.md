@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=visit-monitor)](https://github.com/Shadownc/visit-monitor)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=cf-image-hosting)](https://github.com/Shadownc/cf-image-hosting)
-  
   ## Introduction :raised_hands:
 
   Hope to make more friends in open source projects. :eyes:
