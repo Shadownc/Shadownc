@@ -19,11 +19,12 @@ Here are some ideas to get you started:
   
   # IMyself
 
-  [](https://github.com/Shadownc/actions-checkin/blob/output/github-snake.svg)
+  ![](https://github.com/Shadownc/actions-checkin/blob/output/github-snake.svg)
   
   ![](https://komarev.com/ghpvc/?username=Shadownc&color=blue)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=blogTS)](https://github.com/Shadownc/blogTS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=CYI-Service)](https://github.com/Shadownc/CYI-Service)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadownc&repo=visit-monitor)](https://github.com/Shadownc/visit-monitor)
   
   ## Introduction :raised_hands:
