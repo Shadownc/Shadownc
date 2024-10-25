@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   # IMyself
 
-  ![](https://github.com/Shadownc/actions-checkin/blob/output/github-snake.svg)
+  <img alt="github-snake" src="https://github.com/Shadownc/actions-checkin/blob/output/github-snake.svg" />
   
   ![](https://komarev.com/ghpvc/?username=Shadownc&color=blue)
   
